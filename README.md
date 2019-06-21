@@ -7,7 +7,7 @@ This repo is designed to serve as a template for projects in R. This repo was in
 
 1. [drake](https://github.com/ropensci/drake)
 
-  - For keeping project code up to date
+  - For keeping project code up to date and general workflow. For an excellent resource, see [these slides](https://aedobbyn.github.io/nyc-fires/index.html#1).
 
 2. [workflowr](https://github.com/jdblischak/workflowr)
 

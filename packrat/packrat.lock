@@ -1,0 +1,18 @@
+PackratFormat: 1.4
+PackratVersion: 0.5.0.11
+RVersion: 3.5.1
+Repos: CRAN=https://cran.rstudio.com/
+
+Package: packrat
+Source: github
+Version: 0.5.0-11
+GithubRepo: packrat
+GithubUsername: rstudio
+GithubRef: master
+GithubSha1: ffd810657948739d1e0d7c364d2b97dbe093633b
+RemoteHost: api.github.com
+RemoteRepo: packrat
+RemoteUsername: rstudio
+RemoteRef: master
+RemoteSha: ffd810657948739d1e0d7c364d2b97dbe093633b
+Hash: 84498ca3460e304964d0046c7885ab8b

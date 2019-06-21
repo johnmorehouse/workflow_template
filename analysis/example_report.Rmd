@@ -19,7 +19,7 @@ sourceDirectory("R")
 
 # Sample Report
 
-Here is an example report. Drake will automatically update the figures below:
+Here is an example report. Drake will automatically update the figures below and workflowr gives the version histories.
 
 ```{r drake}
 readd(scat_one)

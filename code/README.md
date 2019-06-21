@@ -1,3 +1,3 @@
 # Code
 
-Save command-line scripts and shared R code here.
+This file contains example code for a project. Number of files is order in which they are used in the `drake` plan.

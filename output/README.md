@@ -1,3 +1,4 @@
 # Output
 
-Save processed data files here.
+Save processed data and results here. 
+

@@ -15,9 +15,9 @@ This repo is designed to serve as a template for projects in R. This repo was in
 
 3. [packrat](https://github.com/rstudio/packrat)
 
-  - Package Stability
+  - Package dependency manager. Installs all packages for the project rather than using packages/dependencies on your local machine. 
 
 4. [roxygen2](https://github.com/yihui/roxygen2)
 
-  - For creating function documentation
+  - For creating function and data documentation. 
 

@@ -1,6 +1,6 @@
 # Project Template
 
-This repo is designed to serve as a template for projects in R. This repo was inspired by [Patrick Schratz's](https://github.com/pat-s/pathogen-modeling) pathogen modeling repo. For more information, look [here](https://rawcdn.githack.com/johnmorehouse/workflow_template/master/docs/about.html).
+This repo is designed to serve as a template for projects in R. This repo was inspired by [Patrick Schratz's](https://github.com/pat-s/pathogen-modeling) pathogen modeling repo. For more information, look [here](https://rawcdn.githack.com/johnmorehouse/workflow_template/master/docs/example_report.html).
 
 
 ## Packages Used

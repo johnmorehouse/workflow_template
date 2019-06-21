@@ -1,0 +1,28 @@
+---
+title: "Example Report"
+editor_options:
+  chunk_output_type: console
+author: "John M Morehouse, University of Oregon"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  fig.retina = 3,
+  fig.align = "center",
+  out.width = "100%",
+  echo = FALSE
+)
+source(here::here("code/packages.R"))
+sourceDirectory("R")
+# load drake objects
+```
+
+# Sample Report
+
+Here is an example report. Drake will automatically update the figures below:
+
+```{r drake}
+readd(scat_one)
+readd(scat_two)
+```
+

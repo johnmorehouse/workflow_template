@@ -11,7 +11,7 @@ This repo is designed to serve as a template for projects in R. This repo was in
 
 2. [workflowr](https://github.com/jdblischak/workflowr)
 
-  - Displays results/makes research easily shareable.[This](https://rawcdn.githack.com/johnmorehouse/workflow_template/e8d0993511c78af43c3633e816d598de7e623dc3/docs/example_report.html) page was created with `workflowr` and `drake`.
+  - Displays results/makes research easily shareable. [This](https://rawcdn.githack.com/johnmorehouse/workflow_template/e8d0993511c78af43c3633e816d598de7e623dc3/docs/example_report.html) page was created with `workflowr` and `drake`.
 
 3. [packrat](https://github.com/rstudio/packrat)
 
